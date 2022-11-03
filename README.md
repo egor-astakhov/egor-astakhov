@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Egor Astakhov
 - 👀 I’m interested in .NET development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on .NET/Unity projects
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on .NET projects
 - 📫 How to reach me: https://t.me/egor_astakhov
 
 <!---
